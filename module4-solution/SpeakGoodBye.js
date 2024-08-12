@@ -24,7 +24,7 @@ var speakWord = "Good Bye";
  window.byeSpeaker = byeSpeaker;
 }) (window);
 
-byeSpeaker.speak("John");
+
 // STEP 9: Expose the 'byeSpeaker' object to the global scope. Name it
 // 'byeSpeaker' on the global scope as well.
 // xxxx.xxxx = byeSpeaker;
